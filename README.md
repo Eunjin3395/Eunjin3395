@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEunjin3395&count_bg=%236DB4D3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <a href="https://github.com/Eunjin3395/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Eunjin3395&hide=stars&theme=dracula&hide_border=true&show_icons=true" alt="Eunjin3395's github stats" /></a>  <a href="https://github.com/Eunjin3395/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eunjin3395&layout=compact&theme=dracula&hide_border=true" /></a>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jennyeunjin)](https://solved.ac/jennyeunjin/)
