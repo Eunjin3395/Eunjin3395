@@ -18,6 +18,12 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/Eunjin3395/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Eunjin3395&hide=stars&theme=dracula&hide_border=true&show_icons=true" alt="Eunjin3395's github stats" /></a>  
 
+## solved.ac
+<p align="center">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jennyeunjin"/></a>&nbsp
+    <img src="http://mazandi.herokuapp.com/api?handle=jennyeunjin&theme=warm"/></a>&nbsp
+</p>
+
 ## projects
 |Title|Contents|Date|Role|
 |------|---|---|---|
@@ -50,8 +56,3 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white"/></a>&nbsp
 </p>
 
-## solved.ac
-<p align="center">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jennyeunjin"/></a>&nbsp
-    <img src="http://mazandi.herokuapp.com/api?handle=jennyeunjin&theme=warm"/></a>&nbsp
-</p>
