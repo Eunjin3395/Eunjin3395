@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ## projects
 |Title|Contents|Date|Role|
 |------|---|---|---|
-|[Gamegoo](https://github.com/Gamegoo-repo)|실시간 게임 친구 매칭 웹 서비스|2024.03 ~ ing|실시간 채팅 및 매칭, 차단, 친구, 알림 도메인 담당|
-|[Timify](https://github.com/Timify-repo)|하루 공부 기록 타이머 앱 서비스|2024.03 ~ ing|회원, 공부 기록 도메인 담당|
-|[The Goods](https://github.com/THEGOODs-repo)|굿즈 판매 쇼핑몰 웹 서비스|2023.12 ~ 2024.07|상품, 주문 도메인 담당|
+|[Gamegoo](https://github.com/Gamegoo-repo)|실시간 게임 친구 매칭 웹 서비스|2024.03 ~ ing|실시간 채팅 및 매칭, 차단, 친구, 알림 도메인|
+|[Timify](https://github.com/Timify-repo)|하루 공부 기록 타이머 앱 서비스|2024.03 ~ ing|회원, 공부 기록 도메인|
+|[The Goods](https://github.com/THEGOODs-repo)|굿즈 판매 쇼핑몰 웹 서비스|2023.12 ~ 2024.07|상품, 주문 도메인 및 CI/CD|
 |[Graduation Project](https://github.com/Eunjin3395/graduation_project)|BERT 모델을 이용한 속성별 음식점 리뷰 분석|2023.04 ~ 2023.06| - |
-|[WEB CHAT](https://github.com/Eunjin3395/OSS-Project-5)|socket.io를 이용한 실시간 채팅 웹 서비스|2022.11 ~ 2022.12|실시간 채팅 담당|
+|[WEB CHAT](https://github.com/Eunjin3395/OSS-Project-5)|socket.io를 이용한 실시간 채팅 웹 서비스|2022.11 ~ 2022.12|실시간 채팅|
 
 ## Tech
 <p align="center">
