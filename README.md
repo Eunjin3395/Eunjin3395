@@ -6,8 +6,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEunjin3395&count_bg=%236DB4D3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <p style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Eunjin3395&hide=stars&theme=dracula&hide_border=true&show_icons=true" width="40%">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jennyeunjin" width="30%">
+    <img src="https://github-readme-stats.vercel.app/api?username=Eunjin3395&hide=stars&theme=dracula&hide_border=true&show_icons=true" width="50%">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jennyeunjin" width="35%">
 </p>
 
 ## projects
