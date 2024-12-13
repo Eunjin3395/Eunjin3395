@@ -10,7 +10,7 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jennyeunjin" width="35%">
 </p>
 
-## projects
+---
 |Title|Contents|Date|Role|
 |------|---|---|---|
 |[Gamegoo](https://github.com/Gamegoo-repo)|실시간 게임 친구 매칭 웹 서비스|2024.06 ~ ing|실시간 채팅 및 매칭, 차단, 친구, 알림 도메인|
@@ -19,7 +19,7 @@
 |[Graduation Project](https://github.com/Eunjin3395/graduation_project)|BERT 모델을 이용한 속성별 음식점 리뷰 분석|2023.04 ~ 06| - |
 |[WEB CHAT](https://github.com/Eunjin3395/OSS-Project-5)|socket.io를 이용한 실시간 채팅 웹 서비스|2022.11 ~ 12|실시간 채팅|
 
-## Tech
+---
 <p align="center">
     <img src="https://img.shields.io/badge/SpringBoot-6AAE3D?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6AAE3D?style=flat-square&logo=&logoColor=white"/></a>&nbsp
