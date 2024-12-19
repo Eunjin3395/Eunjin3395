@@ -5,8 +5,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEunjin3395&count_bg=%236DB4D3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Eunjin3395&hide=stars&theme=dracula&hide_border=true&show_icons=true">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jennyeunjin">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eunjin3395&hide=stars&theme=dracula&hide_border=true&show_icons=true)]()
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jennyeunjin)](https://solved.ac/profile/jennyeunjin)
 
 ---
 |Title|Contents|Date|Role|
